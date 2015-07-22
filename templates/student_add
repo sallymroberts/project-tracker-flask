@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+    <title>Add Student</title>
+</head>
+
+<body>
+
+<form>
+    <label>Enter First name
+        <input type="text" name="first">
+    </label>
+
+    <label>Enter Last name
+        <input type="text" name="last">
+    </label>
+
+    <label>Enter GitHub username
+        <input type="text" name="github">
+    </label>
+
+    <input type="submit" value="Add Student">
+</form>
+
+</body>
+</html>
